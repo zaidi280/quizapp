@@ -41,3 +41,4 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+adfile/quizds-3b5cc-firebase-adminsdk-fbsvc-8509acf71e.json
